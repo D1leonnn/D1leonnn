@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Peter 👋
 
-<!--
-**D1leonnn/D1leonnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently learning full‑stack development with a focus on:
 
-Here are some ideas to get you started:
+- React
+- Node.js
+- JavaScript fundamentals
+- Building real‑world apps
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm using GitHub to track my progress, share my learning projects, and build a portfolio as I grow.
+
+### 🌱 What I'm working on
+- Learning how to build websites and apps from scratch
+- Practicing React components and UI layouts
+- Understanding backend logic with Node.js
+
+### 🚀 Goals
+- Build my first full website
+- Create small automation tools
+- Become confident with full‑stack development
+
+### 📫 Contact
+Los Angeles, CA  
+Email: [your email here]
+
+Thanks for stopping by!
