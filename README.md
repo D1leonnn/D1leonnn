@@ -21,6 +21,6 @@ I'm using GitHub to track my progress, share my learning projects, and build a p
 
 ### 📫 Contact
 Los Angeles, CA  
-Email: [your email here]
+Email: bibi08437@gmail.com
 
 Thanks for stopping by!
